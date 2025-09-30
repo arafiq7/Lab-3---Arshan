@@ -109,6 +109,8 @@ Now, we are going to learn how to collaborate using GitHub. Follow these steps:
 
 Type line below here: #line 5: works well
 
+#Jaden here. This works!
+
 **To complete these exercise, you have to have at least one contributions from your teammates in your repository.**
 
 # Exercise 3: Creating Descriptive Statistics
@@ -440,7 +442,9 @@ pie(Prop2, labels = names(Prop2), main = "Distribution of Race in CPS Data")
 
 ::: pull
 **All other team members**: Once Team Member 2 is done rendering, committing, and pushing, confirm that the changes are visible on GitHub in your team’s lab repo. Then, in RStudio, click the Pull button in the Git pane to get the updated document. You should see the final version of your .qmd file.
-:::
+::: 
+
+#Jaden here. The changes are visible.
 
 # Submission
 
@@ -473,3 +477,4 @@ To submit your assignment:
 | Workflow & formatting (Pushing to GitHub and Submit to Gradescope) | 5      |
 
 The “Workflow & formatting” grade is to assess the reproducible workflow and collaboration. This includes having at least one meaningful commit from each team member and updating the team name and date in the YAML.
+
